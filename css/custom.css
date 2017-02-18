@@ -5,6 +5,12 @@
 .bg-blue {
 	background-color: blue;
 }
+.bg-black {
+	background-color: black;
+}
+.bg-fuchsia {
+	background-color: fuchsia;
+}
 figure {
 	display: block;
 	margin-top: 1em;
